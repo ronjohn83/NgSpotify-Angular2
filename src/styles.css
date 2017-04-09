@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+.artist-header{
+    padding-bottom:20px;
+    margin-bottom:20px;
+    border-bottom:solid 1px #333;
+}
+.artist-thumb{
+    width:80px;
+    height:auto;
+    float:left;
+    margin-right:10px;
+}
+.albums-row-container{
+    width:100%;
+    height:500px;
+    border:1px solid red;
+}
+.album-thumb{
+    width:100%;
+}
+.caption h4{
+    min-height: 80px;
+}
